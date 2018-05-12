@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7864'
     url: http://www.gutenberg.org/2009/agents/7864
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18189#Growing-Nuts-in-the-North--13-A-Personal-Story-of-the-Author-s-Experience-of-33-Years-with-Nu_
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2006-04-17'
 gutenberg_type: Text
